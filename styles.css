@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container{
+    width: 100%;
+    height: 100%;
+    margin: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.icon{
+    width: 170px;
+    height: 100px;
+    /* border: 1px solid; */
+    border-radius: 10px;
+    align-items: center;
+    text-align: center;
+    background-color: #ddd;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+a i{
+    margin-top: 15px;
+    font-size: 40px;
+}
+.icon p{
+    margin-top: 10px;
+    font-size: 20px;
+    color: #131550;
+}
+
+.icon .apple{
+    color: #A2AAAD;
+}
+.icon .facebook{
+    color: #1877F2;
+}
+.icon .twitter{
+    color: #1DA1F2;
+}
+.icon .link{
+    color: #0077B5;
+}
+.icon .git{
+    color:  #24292e;
+}
+.icon .you{
+    color: #FF0000;
+}
+.icon .figma{
+    color: #FFA500;
+}
+.icon .google{
+    color: #4285F4;
+}
+.icon .html{
+    color: #e34c26;
+}
+.icon .whats{
+    color: #075E54;
+}
+.icon .tele{
+    color: #0088CC;
+}
+.icon .win{
+    color: #357EC7;
+}
+.icon .shop{
+    color: #96bf48;
+}
+.icon .zon{
+    color: #FF9900;
+}
+.icon .paint{
+    color: #000;
+}
+.icon .house{
+    color: #c71322;
+}
+.icon .card{
+    color: #000;
+}
+.icon .search{
+    color: #b14904;
+}
+.icon .user{
+    color: rgb(14, 189, 23);
+}
+.icon .check{
+    color: red;
+}
+.icon .img{
+    color: #000;
+}
+.icon .phone{
+    color: #10b6a2;
+}
+.icon .bar{
+    color: #0ddb28;
+}
+.icon .star{
+    color: #131550;
+}
+.icon .load{
+    color: #e34c26;
+}
+.icon .music{
+    color: #000;
+}
+.icon .heart{
+    color: red;
+}
+.icon .right{
+    color: green;
+}
+.icon .mark{
+    color: rgb(116, 114, 7);
+}
+.icon .up{
+    color: green;
+}
+.icon .cloud{
+    color: #e29797;
+}
+.icon .comment{
+    color: #131550;
+}
+.icon .rotate{
+    color: rgb(252, 16, 55);
+}
+.icon .share{
+    color: purple;
+}
